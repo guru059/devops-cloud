@@ -4,3 +4,4 @@ This is my first Github Cloud Repository
 Edited this directly from this Remote RepositoryAppending from Local again to demo git pull
 Edited this directly from this Remote Repository
 This is to demonstrate git pull command
+Adding feature-1 to info
