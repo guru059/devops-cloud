@@ -9,3 +9,5 @@ Welcome to Branch Creation in GIT
 #Feature-2 is a pathbreaking one
 Commencing the Feature-2
 Git is a comprehensive tool (Dev-1)
+Git has a lot of features (Dev-1)
+Adding this line to induce conflict between remote and local master repos
