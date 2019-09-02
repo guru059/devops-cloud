@@ -6,4 +6,5 @@ Edited this directly from this Remote Repository
 This is to demonstrate git pull command
 Adding feature-1 to info
 Welcome to Branch Creation in GIT
+#Feature-2 is a pathbreaking one
 Commencing the Feature-2
