@@ -1,0 +1,67 @@
+[33mcommit 2dfd5001e3a9ba9b54f2f0ecb410d07c833f682d[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-1[m[33m)[m
+Merge: d40dab6 dde9b47
+Author: Anantha Subramony Sreenivasan <guru059@gmail.com>
+Date:   Mon Sep 2 17:31:32 2019 +0530
+
+    git pull demo
+
+[33mcommit d40dab607f27b8199befaf141e190d200b0c923f[m
+Author: Anantha Subramony Sreenivasan <guru059@gmail.com>
+Date:   Mon Sep 2 17:29:39 2019 +0530
+
+    commit all
+
+[33mcommit dde9b47f3ec46a111afc2439a2a0ad82437d0e38[m
+Author: guru059 <48175517+guru059@users.noreply.github.com>
+Date:   Mon Sep 2 17:27:53 2019 +0530
+
+    Update info.txt
+
+[33mcommit b6378c09333b42d94a08c395ad650ae3739b08e2[m
+Merge: 243549c 58e9f01
+Author: Anantha Subramony Sreenivasan <guru059@gmail.com>
+Date:   Mon Sep 2 16:21:51 2019 +0530
+
+    Conflicts Resolved
+
+[33mcommit 243549cdb9d1d88f5ae26efd1a8db928080a642d[m
+Author: Anantha Subramony Sreenivasan <guru059@gmail.com>
+Date:   Mon Sep 2 16:08:38 2019 +0530
+
+    Adding to info.txt
+
+[33mcommit ce2fa7d87ca28f30882317bfc714be4deb25a1a5[m
+Author: Anantha Subramony Sreenivasan <guru059@gmail.com>
+Date:   Mon Sep 2 16:04:46 2019 +0530
+
+    Second edit to info.txt from local
+
+[33mcommit 58e9f01ddae38bd7196abd909d84348b57b51800[m
+Author: guru059 <48175517+guru059@users.noreply.github.com>
+Date:   Mon Sep 2 16:03:56 2019 +0530
+
+    Update info.txt
+
+[33mcommit 73050de15d46b8948c9eb775cf1d499bb115b09f[m
+Author: Anantha Subramony Sreenivasan <guru059@gmail.com>
+Date:   Mon Sep 2 15:49:13 2019 +0530
+
+    commit to Git-Tutorial-Devops
+
+[33mcommit d182e5bc31e1a1f9a372744bea58dccb5e542491[m
+Author: Anantha Subramony Sreenivasan <guru059@gmail.com>
+Date:   Mon Sep 2 14:52:31 2019 +0530
+
+    committed info.txt
+
+[33mcommit 3464147bfacc96fd548d71f1de3ec236447f5a1e[m
+Author: guru059 <48175517+guru059@users.noreply.github.com>
+Date:   Mon Sep 2 14:35:51 2019 +0530
+
+    Add files via upload
+
+[33mcommit b0144d503816e8d568c8750d43f5bb6461824fac[m
+Author: guru059 <48175517+guru059@users.noreply.github.com>
+Date:   Mon Sep 2 14:01:51 2019 +0530
+
+    Initial commit
