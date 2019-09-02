@@ -3,4 +3,5 @@ This is the edit from Local Repository
 This is my first Github Cloud Repository
 Edited this directly from this Remote RepositoryAppending from Local again to demo git pull
 Edited this directly from this Remote Repository
-This is to demonstrate git pull commandWelcome to Branch Creation in GIT
+This is to demonstrate git pull command
+Welcome to Branch Creation in GIT
