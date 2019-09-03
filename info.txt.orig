@@ -11,9 +11,12 @@ Commencing the Feature-2
 Git is a comprehensive tool (Dev-1)
 Git has a lot of features (Dev-1)
 Adding this line to induce conflict between remote and local master repos
-<<<<<<< HEAD
 DiffMerge tool can be used with GitBash to identify and fix conflicts
-=======
-
 DiffMerge can be integrated with GitBash
->>>>>>> b1206d83e51fd2e42a1f7c9527a80c79aa075970
+<<<<<<< HEAD
+Changes to the file in the staging area
+=======
+Feature-3 started for DiffMerge
+More features to be integrated in the near future
+push feature3 now
+>>>>>>> 637dacfb5a62d6b9dd0cd0ba96b2fe0816ff8e96
