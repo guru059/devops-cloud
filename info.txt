@@ -8,3 +8,4 @@ Adding feature-1 to info
 Welcome to Branch Creation in GIT
 #Feature-2 is a pathbreaking one
 Commencing the Feature-2
+Adding this line to induce conflict between remote and local master repos
