@@ -13,4 +13,3 @@ Git has a lot of features (Dev-1)
 Adding this line to induce conflict between remote and local master repos
 DiffMerge tool can be used with GitBash to identify and fix conflicts
 DiffMerge can be integrated with GitBash
-Unstaging Files
