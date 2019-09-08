@@ -21,9 +21,9 @@ Selenium is a testing tool
 Nexus is a repository manager
 Docker is a container service
 Kubernetes is an orchestration engine
+Welcome to feature-9
 <<<<<<< HEAD
-Recursive Merge Demo
-Recursive Merge Demonstration
+Welcome to other features
 =======
-Recursive Merge Demonstrations
->>>>>>> feature8
+Feature-10 is complete
+>>>>>>> feature10
