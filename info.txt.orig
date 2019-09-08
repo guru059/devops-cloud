@@ -13,10 +13,18 @@ Git has a lot of features (Dev-1)
 Adding this line to induce conflict between remote and local master repos
 DiffMerge tool can be used with GitBash to identify and fix conflicts
 DiffMerge can be integrated with GitBash
-<<<<<<< HEAD
-Changes to the file in the staging area
-=======
 Feature-3 started for DiffMerge
 More features to be integrated in the near future
 push feature3 now
->>>>>>> 637dacfb5a62d6b9dd0cd0ba96b2fe0816ff8e96
+Changes to the file in the staging area
+Selenium is a testing tool
+Nexus is a repository manager
+Docker is a container service
+Kubernetes is an orchestration engine
+<<<<<<< HEAD
+Recursive Merge Examples
+Kubernetes is an orchestration engine
+Recursive Merge Demos
+=======
+Recursive Merge Demonstration
+>>>>>>> feature8
