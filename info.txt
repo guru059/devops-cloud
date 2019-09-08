@@ -1,4 +1,3 @@
-Master has new commit
 This is my first Github Cloud Repository
 This is the edit from Local Repository
 This is my first Github Cloud Repository
