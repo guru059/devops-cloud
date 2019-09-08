@@ -24,6 +24,8 @@ Kubernetes is an orchestration engine
 Welcome to feature-9
 <<<<<<< HEAD
 Welcome to other features
-=======
 Feature-10 is complete
->>>>>>> feature10
+This is from local master
+=======
+This is changed from Remote Repos
+>>>>>>> 71589119a1d6d985e4704e1fae47f53bc4154c44
