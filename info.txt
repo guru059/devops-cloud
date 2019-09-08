@@ -20,3 +20,4 @@ Changes to the file in the staging area
 Selenium is a testing tool
 Nexus is a repository manager
 Docker is a container service
+Recursive Merger
